@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "i7",
+    "price": 3500,
+    "image": "lkdjfñlkjflkdsa"
+  },
+  {
+    "id": 2,
+    "image": "https://i.blogs.es/588c7d/amd6/original.jpeg",
+    "title": "Ryzen 5800x",
+    "price": 58000
+  },
+  {
+    "id": 3,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_884972-MLA40182457265_122019-O.jpg",
+    "title": "Ryzen 2200G",
+    "price": 22000
+  }
+
+
+]
